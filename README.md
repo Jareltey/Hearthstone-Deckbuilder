@@ -1,1 +1,1 @@
-# HearthArena-Algorithm
+# HearthArena-TensorFlow
