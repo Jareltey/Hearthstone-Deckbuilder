@@ -1,2 +1,2 @@
-# HearthArena-TensorFlow
-Recreating HearthArena card ranking algorithm using TensorFlow deep learning models
+# Hearthstone Deckbuilder
+Recreating HearthArena card ranking algorithm using deep learning models built with Tensorflow
